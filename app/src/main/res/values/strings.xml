@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android Starter</string>
+    <string name="catalog_title">Make it yours.</string>
+    <string name="catalog_intro">A small starting point for your next Android app.</string>
+    <string name="sample_catalog">SAMPLE CATALOG</string>
+    <string name="catalog_footer">Select an item to explore.</string>
+    <string name="retry">Try again</string>
+    <string name="back">Back</string>
+    <string name="loading">Loading catalog</string>
+    <string name="empty_title">Nothing here yet</string>
+    <string name="empty_message">Your catalog will appear here when items are available.</string>
+    <string name="error_title">Could not load the catalog</string>
+    <string name="error_network">Check your connection and try again.</string>
+    <string name="error_unauthorized">Access is unavailable. Check your server configuration.</string>
+    <string name="error_server">The service is unavailable. Please try again.</string>
+    <string name="error_invalid_data">The service returned data we could not read.</string>
+    <string name="error_not_found">This item is no longer available.</string>
+    <string name="details_title">Item details</string>
+    <string name="about_item">ABOUT THIS ITEM</string>
+    <string name="return_catalog">Back to catalog</string>
+    <string name="error_rejected">The service could not accept this request.</string>
+</resources>
